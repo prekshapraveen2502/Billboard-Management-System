@@ -2,7 +2,7 @@
 
 A Java Swing enterprise application utilizing Object-Oriented Design (OOD) principles to simulate a real-world billboard advertising ecosystem. The application demonstrates complex interactions between advertising agencies, billboard operators, city officials, and utility companies.
 
-## 🚀 Features
+## Features
 
 - **Enterprise Ecosystem:** Simulates a localized network containing 4 distinct Enterprises:
   - **SkyView Billboards** (Billboard Operators)
@@ -14,14 +14,14 @@ A Java Swing enterprise application utilizing Object-Oriented Design (OOD) princ
 - **Data Generation:** Uses the `javafaker` library to synthesize mock operational data upon initial runtime.
 - **Role-Based Access Control:** Dedicated interfaces tailored to 10+ distinct roles.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Java 17
 - **UI Framework:** Java Swing
 - **Database:** `db4o-nbm` (Object Database v2.0.0)
 - **Dependency Management:** Maven (`pom.xml`)
 
-## ⚙️ Getting Started
+## Getting Started
 
 1. Clone the repository and open the project in your preferred IDE (IntelliJ, Eclipse, NetBeans).
 2. Ensure you have **Java 17** and **Maven** installed.
